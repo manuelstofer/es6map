@@ -1,0 +1,11 @@
+{
+    "name": "es6Map",
+    "description": "Paul Millr's es6-shim Map implementation packed as a component",
+    "version": "0.5.3",
+    "keywords": [],
+    "dependencies": {},
+    "scripts": [
+        "index.js"
+    ],
+    "repo": "https://github.com/manuelstofer/es6Map"
+}
